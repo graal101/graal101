@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+🌱 I’m currently learning Python, Flask, Bootstrap.
+ 🤔 I’m looking an internship opportunity
+
+ ---
+ 
+# Коротко о себе:
+
+Меня зовут **Андрей.**  
+Я начинающий разработчик на Python с опытом в создании приложений с использованием **PyQt6** для графических интерфейсов, **Bootstrap** и **Flask** для веб-разработки. Уверенно работаю в среде **Debian Gnu/Linux** и активно ищу возможности для работы и стажировок. Буду рад новым возможностям.  
+Связаться со мной можно по электронной почте: 📧️ [graal101@mail.ru](mailto:graal101@mail.ru). 
+
+---
+
+# Briefly about myself:
+
+My name is **Andrey.**  
+I am a beginner Python developer with experience in creating applications using **PyQt6** for graphical interfaces, **Bootstrap**, and **Flask** for web development. I confidently work in the **Debian Gnu/Linux** environment and am actively looking for job and internship opportunities. I would be happy to explore new opportunities.  
+You can contact me via email: 📧️ [graal101@mail.ru](mailto:graal101@mail.ru).
