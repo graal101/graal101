@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ---
 
-🌱 I’m currently learning Python, Flask, Bootstrap.
+🌱 I’m currently learning Python, Flask, Bootstrap. | Сейчас я изучаю Python, Flask, Bootstrap.
 
- 🤔 I’m looking an internship opportunity
+ 🤔 I’m looking an internship opportunity. | Ищу возможность стажировки.
 
  ---
  
