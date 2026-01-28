@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ---
 
 🌱 I’m currently learning Python, Flask, Bootstrap.
+
  🤔 I’m looking an internship opportunity
 
  ---
