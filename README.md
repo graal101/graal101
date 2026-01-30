@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 # Briefly about myself:
 
-My name is **Andrey.**  
+My name is **Andrew.**  
 I am a beginner Python developer with experience in creating applications using **PyQt6** for graphical interfaces, **Bootstrap**, and **Flask** for web development. I confidently work in the **Debian Gnu/Linux** environment and am actively looking for job and internship opportunities. I would be happy to explore new opportunities.  
 You can contact me via email: 📧️ [graal101@mail.ru](mailto:graal101@mail.ru).
